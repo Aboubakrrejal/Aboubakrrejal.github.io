@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: Iranianans;
+    font-style: normal;
+    font-weight: bold;
+    src: url('../fonts/IranianSans.otf') format('otf');  /* All Major Browsers */
+         url('../fonts/Iranianans.ttf') format('truetype');/* All Major Browsers 
+}
+@font-face {
+    font-family: Yekan;
+    font-style: normal;
+    font-weight: 200;
+    src: url('../fonts/Yekan.woff') format('woff');  /* All Major Browsers */
+	 url('../fonts/Yekan.ttf') format('truetype');/* All Major Browsers */
+}
